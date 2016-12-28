@@ -6,9 +6,10 @@
 //  Copyright © 2016 Alumno. All rights reserved.
 //
 
+
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<UITableViewDelegate>
 
 
 @end
